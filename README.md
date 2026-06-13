@@ -8,6 +8,8 @@ This repository is a template for customers who want to host their own reverse p
 
 A common reason to run your own proxy is to serve the API under a domain you control (for example, to keep all traffic on your own hostname).
 
+For more details, see the [Request Proxying](https://capawesome.io/docs/cloud/live-updates/request-proxying/) documentation.
+
 ## How it works
 
 The proxy is a minimal [nginx](https://nginx.org) container:
