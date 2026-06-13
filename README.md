@@ -1,6 +1,6 @@
-# cloud-api-proxy
+# docker-cloud-api-proxy
 
-Self-hostable nginx reverse proxy template for routing a custom domain to the Capawesome Cloud API.
+🐳 Docker image for proxying requests from your own domain to the Capawesome Cloud API. 
 
 ## Overview
 
@@ -52,4 +52,4 @@ After changing the configuration, rebuild the image for the changes to take effe
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
+See [LICENSE](./LICENSE).
